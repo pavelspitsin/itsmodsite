@@ -215,8 +215,8 @@ body {
 }
 
     .thumb img:hover {
-        filter: gray; /* IE6-9 */
-        -webkit-filter: grayscale(1);
+        filter: brightness(90%); /* IE6-9 */
+        -webkit-filter: brightness(90%);
     }
 
 .thumb {
